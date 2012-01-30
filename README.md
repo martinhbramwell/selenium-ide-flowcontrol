@@ -1,6 +1,6 @@
 Please Note
 ==================================
-I invested a lot of effort into this extension, but got less than zero support from the orioginal author.  Subsequently I ran across SEL-Blocks, a better extension in every way.
+I invested a lot of effort into this extension, but got less than zero support from the original author.  Subsequently, I ran across SEL-Blocks, a better extension in every way.
 
 **Don't waste your time with this extension.** Instead go here : https://github.com/martinhbramwell/SEL-Blocks
 
